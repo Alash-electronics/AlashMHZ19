@@ -1,0 +1,19 @@
+{
+  "name": "AlashMHZ19",
+  "version": "1.0.0",
+  "description": "MH-Z19B/C/E CO2 sensor over UART: ppm, ventilation rating, calibration, ABC, checked replies, tips (ru/kk/en), no dependencies",
+  "keywords": "MH-Z19, MH-Z19B, MH-Z19C, MH-Z19E, CO2, carbon dioxide, ppm, air quality, NDIR, ventilation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alash-electronics/AlashMHZ19"
+  },
+  "authors": [
+    {
+      "name": "Alash Electronics",
+      "email": "alash.electronics@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
